@@ -1,0 +1,7 @@
+interface:
+  display_name: "Light 专属 EasyEDA 电路设计"
+  short_description: "按个人复用、BOM和校验规则设计嘉立创EDA电路"
+  default_prompt: "Use $light-easyeda-circuit to inspect and safely modify my EasyEDA schematic or PCB."
+
+policy:
+  allow_implicit_invocation: true
